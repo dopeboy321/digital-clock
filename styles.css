@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+body {
+  background: linear-gradient(to right, #fc4a1a, #f7b733);
+  
+}
+
+#clock {
+font-size: 75px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-family: 'Orbitron', sans-serif;
+height: 100vh;
+width: auto;
+}
+
