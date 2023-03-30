@@ -10,7 +10,6 @@ body {
 
 #clock {
 font-size: 75px;
-
 font-family: 'Orbitron', sans-serif;
 }
 
@@ -21,4 +20,8 @@ justify-content: center;
 align-items: flex-start;
 font-size: 45px;
 gap: 18px;
+}
+
+.pm_am {
+  margin-left: 12px;
 }
